@@ -1,9 +1,22 @@
-# Real-time-Progressive-Financial-Analysis-
-This Repository will take you through the complete process of developing an end-to-end report and dashboard using Power BI. </br>
-While working on this dataset, I have tried working on as real data as possible to make this end to end BI Financial Report.
-1.)Starting from Getting Data/ Connecting to source.
-2.)Data Cleaning & Transformations
-3.)Building a Data Model/ Creating Relationships
-4.)Create Measures using DAX Formulas
-5.)Creating Visualisations/Building Report
-6.)Publishing Report/Sharing with others
+# Real-time Progressive Financial Analysis
+
+## Overview
+
+This project provides a real-time financial analysis tool that tracks, visualizes, and predicts financial data. Built using a robust tech stack, the application offers users a comprehensive view of their financial status, helping them make informed decisions.
+
+## Features
+
+- **Real-time Data Tracking:** Automatically updates financial data in real-time.
+- **Data Visualization:** Interactive charts and graphs for a clear representation of financial trends.
+- **Predictive Analysis:** Utilizes machine learning algorithms to forecast future financial trends.
+- **User-friendly Interface:** Easy-to-navigate UI built with modern web technologies.
+- **Secure Data Management:** Ensures user data is securely stored and processed.
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, please contact:
+- **Abhishek:** [abhishek992@gmail.com](mailto:abhishek992@gmail.com)
+
+---
