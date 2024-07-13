@@ -4,6 +4,10 @@
 
 This project provides a real-time financial analysis tool that tracks, visualizes, and predicts financial data. Built using a robust tech stack, the application offers users a comprehensive view of their financial status, helping them make informed decisions.
 
+##Screesnshot
+
+![Alt text](http://full/path/to/img.jpg "Optional title")
+
 ## Features
 
 - **Real-time Data Tracking:** Automatically updates financial data in real-time.
