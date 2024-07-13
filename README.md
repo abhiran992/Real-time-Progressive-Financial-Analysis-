@@ -6,7 +6,7 @@ This project provides a real-time financial analysis tool that tracks, visualize
 
 ##Screesnshot
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt text](sales BIT.PNG "Optional title")
 
 ## Features
 
