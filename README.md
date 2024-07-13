@@ -1,10 +1,12 @@
 # Real-time Progressive Financial Analysis
 
+Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/reports/84e5afc6-ef40-464d-9f4b-8374e590fc0c/ReportSection?experience=power-bi
+
 ## Overview
 
 This project provides a real-time financial analysis tool that tracks, visualizes, and predicts financial data. Built using a robust tech stack, the application offers users a comprehensive view of their financial status, helping them make informed decisions.
 
-##Screesnshot
+## Screesnshot
 
 ![Alt text](Sales_BI.PNG "Optional title")
 
